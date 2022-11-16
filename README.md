@@ -18,7 +18,7 @@
 相对于传统固定代理IP，它的特点是自动地在代理服务器上改变IP，这样每个请求都使用一个不同的IP。
 
 # 截图
-[![zAJIrF.png](https://s1.ax1x.com/2022/11/14/zAJIrF.png)](https://imgse.com/i/zAJIrF)
+[![zVIfSA.png](https://s1.ax1x.com/2022/11/16/zVIfSA.png)](https://imgse.com/i/zVIfSA)  
 # 使用说明
 
 下载 
